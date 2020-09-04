@@ -1,8 +1,8 @@
 /*
  * Algorithm Z*.
  * 
- * Usage   : z* <n> <kmin> <kmax>
- * Example : z*  5   2      3
+ * Usage   : zr <n> <kmin> <kmax>
+ * Example : zr  5   2      3
  */
 #include <iostream>
 #include <cstdlib>

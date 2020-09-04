@@ -1,8 +1,8 @@
 /*
  * Algorithm U*.
  * 
- * Usage   : u* <n> <k1> <k2> <k3>
- * Example : u*  5   1    2    4
+ * Usage   : ur <n> <k1> <k2> <k3>
+ * Example : ur  5   1    2    4
  */
 #include <iostream>
 #include <cstdlib>
