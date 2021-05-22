@@ -9,7 +9,7 @@ In this report, we summarize the set partition enumeration problems and thorough
 ## List of Implementations
 
 | Algorithm | Description                                                                | Implementation   |
-|-----------|----------------------------------------------------------------------------|------------------|
+|:----------|:---------------------------------------------------------------------------|:-----------------|
 | V         | Enumerate all partitions of the set                                        | [v.cpp](v.cpp)   |
 | W         | Enumerate all partitions with at most `k` blocks                           | [w.cpp](w.cpp)   |
 | X         | Enumerate all partitions with exactly `k` blocks                           | [x.cpp](x.cpp)   |
