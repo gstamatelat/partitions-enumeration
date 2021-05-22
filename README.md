@@ -1,6 +1,6 @@
 # Partitions Enumeration
 
-Supplementary material.
+Supplementary material of [Lexicographic Enumeration of Set Partitions](https://arxiv.org/abs/2105.07472).
 
 ## List of Implementations
 
