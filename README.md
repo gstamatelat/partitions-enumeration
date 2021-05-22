@@ -8,13 +8,13 @@ In this report, we summarize the set partition enumeration problems and thorough
 
 ## List of Implementations
 
-| Algorithm | Description                                                                | Implementation   |
-|:----------|:---------------------------------------------------------------------------|:-----------------|
-| V         | Enumerate all partitions of the set                                        | [v.cpp](v.cpp)   |
-| W         | Enumerate all partitions with at most `k` blocks                           | [w.cpp](w.cpp)   |
-| X         | Enumerate all partitions with exactly `k` blocks                           | [x.cpp](x.cpp)   |
-| Y         | Enumerate all partitions with exactly `k` blocks                           | [y.cpp](y.cpp)   |
-| Z         | Enumerate all partitions with number of blocks between `k_min` and `k_max` | [z.cpp](z.cpp)   |
-| Z*        | The reverse of algorithm Z                                                 | [zr.cpp](zr.cpp) |
-| U         | Enumerate all partitions with number of blocks in the set `K`              | [u.cpp](u.cpp)   |
-| U*        | The reverse of algorithm U                                                 | [ur.cpp](ur.cpp) |
+| Algorithm | Description                                                                     | Implementation   |
+|:----------|:--------------------------------------------------------------------------------|:-----------------|
+| V         | Enumerate all partitions of the set                                             | [v.cpp](v.cpp)   |
+| W         | Enumerate all partitions with at most `k` blocks                                | [w.cpp](w.cpp)   |
+| X         | Enumerate all partitions with exactly `k` blocks                                | [x.cpp](x.cpp)   |
+| Y         | Enumerate all partitions with exactly `k` blocks                                | [y.cpp](y.cpp)   |
+| Z         | Enumerate all partitions whose number of blocks are between `k_min` and `k_max` | [z.cpp](z.cpp)   |
+| Z*        | The reverse of algorithm Z                                                      | [zr.cpp](zr.cpp) |
+| U         | Enumerate all partitions whose number of blocks are in the set `K`              | [u.cpp](u.cpp)   |
+| U*        | The reverse of algorithm U                                                      | [ur.cpp](ur.cpp) |
