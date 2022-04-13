@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Lexicographic Enumeration of Set Partitions
+message: >-
+  If you use this software in your work, please cite
+  it using the following metadata.
+type: software
+authors:
+  - given-names: Giorgos
+    family-names: Stamatelatos
+    orcid: 'https://orcid.org/0000-0003-0491-6668'
+  - given-names: Pavlos S.
+    family-names: Efraimidis
+url: 'https://arxiv.org/abs/2105.07472'
+repository: >-
+  https://github.com/gstamatelat/partitions-enumeration
+abstract: >-
+  In this report, we summarize the set partition
+  enumeration problems and thoroughly explain the
+  algorithms used to solve them. These algorithms
+  iterate through the partitions in lexicographic
+  order and are easy to understand and implement in
+  modern high-level programming languages, without
+  recursive structures and jump logic. We show that
+  they require linear space in respect to the set
+  cardinality and advance the enumeration in constant
+  amortized time. The methods discussed in this
+  document are not novel. Our goal is to demonstrate
+  the process of enumerating set partitions and
+  highlight the ideas behind it. This work is an aid
+  for learners approaching this enumeration problem
+  and programmers undertaking the task of
+  implementing it.
